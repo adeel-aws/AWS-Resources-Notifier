@@ -128,5 +128,5 @@ EBS: 2 volumes in use
 
 ## 👨‍💻 Author
 
-**Muhammad Adeel**
-AWS Certified Cloud Practitioner | Aspiring DevOps Engineer 🚀
+**Muhammad Adeel**: 
+Aspiring DevOps Engineer 🚀
